@@ -1,0 +1,27 @@
+*{
+    font-size: 23px;
+    font-family: 'Merriweather', serif;
+
+
+}
+.navbar {
+    background-color:#100f10;
+    border-bottom:1px solid grey;
+    overflow:hidden;
+    height: 3rem;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius:10px;
+    color:#fff;
+  
+}
+.nav-item:hover{
+border-bottom:4px solid #25D366;
+transition:ease-out .2s;
+}
+.navbar-brand{
+    font-size: 40px;
+}
+
+.nav-link{
+    color:#fff;
+}
